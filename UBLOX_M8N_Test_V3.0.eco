@@ -1,0 +1,15 @@
+*PADS-ECO-V9.5-MILS*
+*REMARK*  old file: D:\PADS Projects\ecogtmp0.asc
+*REMARK*  new file: D:\PADS Projects\ecogtmp1.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 2016/7/30 17:27:28
+*NET*
+*SIGNAL*  GND
+U1.13
+
+*REMARK*  Deleted pins: 0,  Added pins: 1
+*END*
+*PADS-ECO-V9.5-MILS*
+
+*REMARK* -- UBLOX_M8N_Test_V3.0.pcb -- Sat Jul 30 18:54:32 2016
+
+*END*

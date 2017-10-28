@@ -1,0 +1,9 @@
+*PADS-ECO-V9.5-MILS*
+*REMARK*  old file: D:\PADS Projects\ecogtmp0.asc
+*REMARK*  new file: D:\PADS Projects\ecogtmp1.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 2016/4/20 11:29:30
+*CHGPART*
+J1  PH2.0-6PIN  SIP-6-WITH-LAYER3-100MIL
+
+*REMARK*  Deleted pins: 0,  Added pins: 0
+*END*

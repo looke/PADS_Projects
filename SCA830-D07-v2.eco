@@ -1,0 +1,10 @@
+*PADS-ECO-V9.5-MILS*
+*REMARK*  old file: D:\PADS Projects\ecogtmp0.asc
+*REMARK*  new file: D:\PADS Projects\ecogtmp1.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 2016/7/19 9:40:38
+*NET*
+*SIGNAL*  GND
+J2.4
+
+*REMARK*  Deleted pins: 0,  Added pins: 1
+*END*
